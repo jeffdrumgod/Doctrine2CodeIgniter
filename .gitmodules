@@ -1,0 +1,3 @@
+[submodule "symfony/console"]
+	path = symfony/console
+	url = https://github.com/symfony/Console.git
